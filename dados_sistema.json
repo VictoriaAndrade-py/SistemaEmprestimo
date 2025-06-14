@@ -1,0 +1,77 @@
+{
+  "usuarios": [
+    {
+      "id": "2015300069",
+      "nome": "victoria",
+      "tipo": "Aluno de Gradua\u00e7\u00e3o",
+      "emprestimos": []
+    },
+    {
+      "id": "2015300079",
+      "nome": "Daniel",
+      "tipo": "Aluno de Gradua\u00e7\u00e3o",
+      "emprestimos": []
+    },
+    {
+      "id": "20082025",
+      "nome": "Fabio",
+      "tipo": "Professor",
+      "emprestimos": []
+    },
+    {
+      "id": "2015300032",
+      "nome": "Thiago",
+      "tipo": "Aluno de Gradua\u00e7\u00e3o",
+      "emprestimos": []
+    }
+  ],
+  "equipamentos": [
+    {
+      "id": "MED2020",
+      "nome": "Multimetro Analogico",
+      "tipo": "Equipamento de Medi\u00e7\u00e3o",
+      "disponivel": true,
+      "historico": []
+    },
+    {
+      "id": "MED2025",
+      "nome": "Multimentro Digital",
+      "tipo": "Equipamento de Medi\u00e7\u00e3o",
+      "disponivel": true,
+      "historico": []
+    },
+    {
+      "id": "MED2015",
+      "nome": "Multimetro Analogico",
+      "tipo": "Equipamento de Medi\u00e7\u00e3o",
+      "disponivel": true,
+      "historico": []
+    },
+    {
+      "id": "FER2025",
+      "nome": "Alicate",
+      "tipo": "Ferramenta",
+      "disponivel": true,
+      "historico": []
+    },
+    {
+      "id": "PLA2025",
+      "nome": "Arduino Mega",
+      "tipo": "Placa de Desenvolvimento",
+      "disponivel": true,
+      "historico": [
+        {
+          "usuario": "victoria",
+          "data": "2025-06-13T21:25:01.318542"
+        }
+      ]
+    },
+    {
+      "id": "PLA2015",
+      "nome": "FPGA",
+      "tipo": "Placa de Desenvolvimento",
+      "disponivel": true,
+      "historico": []
+    }
+  ]
+}
